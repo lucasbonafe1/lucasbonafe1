@@ -1,5 +1,5 @@
 
-## Prazer, meu nome é Lucas, sou um amante da tecnologia e sempre ando em busca de aprendizado. 
+## Prazer, meu nome é Lucas, sou um amante da tecnologia e ando sempre em busca de aprendizado. 
 
 ![Bonafé's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbonafe1&show_icons=true&theme=transparent)
 
