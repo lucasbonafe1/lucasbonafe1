@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Nice to meet you, my name is Lucas, I'm 19 years old and I'm a technology lover.
+  ## Nice to meet you, I'm a software developer who loves technology.
 
   ![Bonafé's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbonafe1&show_icons=true&theme=transparent)
 
